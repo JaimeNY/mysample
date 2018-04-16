@@ -1,28 +1,6 @@
-[   {
-            "tipo": "BUNDLE",
-            "descripcion": "Cuando contrataste tu paquete Vodafone, adquiriste un compromiso con el producto y aquí puedes consultar su duración. Si dieras de baja tu paquete Vodafone antes de que finalice tu compromiso, tendrías que abonar el coste de cancelación de dicho compromiso, en función de los días que queden para su finalización."
-            
-        },
+[   
+    {	“Mi primer commit”. 	} ,
+	{	“Mi segundo commit”.	}
         
-   {
-            "tipo": "VALOR_BUNDLE",
-            "descripcion": "Cuando contrataste tu paquete Vodafone, adquiriste un compromiso en el valor económico del mismo y aquí puedes consultar su duración. Si quieres modificar tu paquete Vodafone, recuerda que si el importe total del mismo disminuye, tendrás que abonar el coste de la cancelación de dicho compromiso, en función de los días que queden para su finalización."
-            
-        },
-   {
-            "tipo": "VALOR_NC",
-            "descripcion": "Cuando contrataste tu servicio, adquiriste un compromiso en la tarifa asociada y aquí puedes consultar su duración. Si quieres cambiar de tarifa antes de que finalice tu compromiso, recuerda que si es una de menor cuota o importe, tendrás que abonar el coste de la cancelación de dicho compromiso, en función de los días que queden para su finalización."
-            
-        },
-           {
-            "tipo": "DESCUENTO_CNC",
-            "descripcion": "Actualmente tienes un descuento aplicado sobre este servicio con un compromiso y aquí puedes consultar  su duración. Si dieras de baja tu paquete o servicio Vodafone antes de que finalice tu compromiso, tendrías que abonar el coste de cancelación de dicho compromiso, en función de los días que queden para su finalización."
-            
-        },
-   {
-            "tipo": "PROMOCION_TV",
-            "descripcion": "Con la instalación del producto de TV o con la contratación de algún canal adicional, adquiriste un compromiso en el producto o en el canal, aquí puedes consultar su duración. Si dieras de baja el producto de TV o el canal adicional contratado antes de que finalice tu compromiso, tendrás que abonar el coste de la cancelación de dicho compromiso, en función de los días que queden para su finalización."
-            
-        }
  ]
         
